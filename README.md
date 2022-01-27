@@ -1,2 +1,2 @@
 # snake-game
-![Screenshot 2022-01-26 at 6 03 12 PM](https://user-images.githubusercontent.com/42440349/151164649-aec6c02a-3d1a-4eeb-aac6-11d2227f6562.png)
+![Screenshot 2022-01-27 at 4 19 26 PM](https://user-images.githubusercontent.com/42440349/151344434-8cf66941-68b7-4d6e-916b-012b463d9e65.png)
